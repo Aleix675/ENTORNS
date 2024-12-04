@@ -1,7 +1,7 @@
 package operadors;
 import java.util.Scanner;
 public class Aleix_Repeticio4 {
-
+// canvi Gisela    
 	public static void main(String[] args) {
 		Scanner in= new Scanner(System.in);
 
