@@ -10,7 +10,7 @@ public class Aleix_Repeticio4 {
 		int cont1=1;
 		double aleatori = (int)(Math.random()*(4-1+1))+1;
 		char letraAle = (char)('A'+ Math.random()*4);
-
+//hola
 		do {
 			System.out.println("Para hundir el barco introduce un numero del 1-4 y una letra de la A-D.\n");
 
